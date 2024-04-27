@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>222.png</file>
+        <file>lens.png</file>
+        <file>add.png</file>
+        <file>remove.png</file>
+        <file>show.png</file>
+    </qresource>
+</RCC>
