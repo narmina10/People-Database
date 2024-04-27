@@ -2,7 +2,7 @@
  
 This project allows to manage a SQLite database, specifically in this case, a database containing names of people. It provies such functions as adding, removing, printing, checking for existance and searching for certain names in the database. <br>
 <br>
-The window that opens after running the program has a title "Add People" and contains 3 buttons: "Add person", "Remove person" and "Show the database". Also it contains a line for text, where you can type a name of a person that you wish to add/remove. After clicking "Show the database" button, another window is opened. It has a title "People Database" and shows the list of names. It also has a line and "Find..." button. If we type a name and click this button, all the people with that name in the database will be displayed. 
+The window that opens after running the program has a title "Add People" and contains 3 buttons: "Add person", "Remove person" and "Show the database". Also it contains a line for text, where you can type a name of a person that you wish to add/remove. After clicking "Show the database" button, another window is opened. It has a title "People Database" and shows the list of names. It also has a line and "Find..." button. If we type a name and click this button, all the people with that name in the database will be displayed.
 
 ---
 
