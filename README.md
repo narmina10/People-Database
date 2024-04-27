@@ -320,17 +320,16 @@ databaseWindow->show();
 
 ### In main.cpp file:
 
-
+```
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     Interface interface;
     interface.show();
     return app.exec();
 }
+
 ```
-
-This main function sets up the Qt application, creates an object of the Interface class, displays the interface window, and runs the application.
-
+- This main function sets up the Qt application, creates an object of the Interface class, displays the interface window, and runs the application.
 ---
 
 ## How to use
